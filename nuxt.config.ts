@@ -11,11 +11,14 @@ export default defineNuxtConfig({
   },
 
   modules: [
+    'nuxt-icon',
     [
       '@nuxtjs/google-fonts',
       {
         families: {
           Poppins: true,
+          Lato: true,
+          Montserrat: true,
           download: true,
           inject: true,
         },
