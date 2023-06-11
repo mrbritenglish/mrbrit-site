@@ -1,10 +1,10 @@
 <script setup lang="ts">
-const props = defineProps({
-  title: String,
-  label: String,
-  bgColor: String,
-  icon: String,
-});
+const props = defineProps<{
+  icon: string;
+  title: string;
+  label: string;
+  bgColor: string;
+}>();
 </script>
 <template>
   <div
