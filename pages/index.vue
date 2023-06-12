@@ -1,3 +1,13 @@
+<script setup lang="ts">
+useSeoMeta({
+  title: 'Mr Brit - Escola de Inglês',
+  ogTitle: 'Mr Brit - Escola de Inglês',
+  description: 'Aprenda inglês do seu jeito',
+  ogDescription: 'Aprenda inglês do seu jeito',
+  ogImage: 'https://mrbrit.com.br/mrbrit-fachada.jpg',
+});
+</script>
+
 <template>
   <section class="py-20 text-center text-secondary text-lg bg-slate-200">
     <div
@@ -65,7 +75,7 @@
     />
   </section>
 
-  <section class="bg-slate-200 py-12">
+  <section class="bg-slate-200 py-20">
     <h1 class="text-3xl text-primary text-center font-poppins font-bold">
       Depoimentos
     </h1>
@@ -93,7 +103,7 @@
       </div>
     </div>
   </section>
-  <section class="bg-primary text-white">
+  <section class="bg-primary text-white py-20">
     <h1 class="text-3xl text-center font-poppins font-bold pt-4">
       Área do aluno
     </h1>
@@ -104,19 +114,19 @@
         title="American English File"
         label="Conheça o material didático utilizado em nossos cursos"
         icon="ph:book-bold"
-        link="/"
+        link="https://elt.oup.com/student/americanenglishfile/?cc=global&selLanguage=en"
       />
       <StudentAreaCard
         title="Oxford English Testing"
         label="Encontre exercícios e explicações sobre a língua inglesa."
         icon="mdi:pencil"
-        link="/"
+        link="https://www.oxfordenglishtesting.com/homeMR.aspx?id=3738&menuId=1&LangType=2057"
       />
       <StudentAreaCard
         title="Ask Oxford"
         label="Excelente dicionário online que fornece definições claras e fáceis."
         icon="mdi:bookshelf"
-        link="/"
+        link="https://languages.oup.com/"
       />
     </div>
   </section>
