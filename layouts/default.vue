@@ -26,7 +26,7 @@
       </div>
     </header>
     <slot />
-    <a href="https://wa.me/5512988361101&name=as" class="fixed bottom-5 right-3 z-50 no-underline" target="_blank">
+    <a href="https://wa.me/5512988361101" class="fixed bottom-5 right-3 z-50 no-underline" target="_blank">
       <img src="~/assets/images/WhatsApp.svg" alt="Botão WhatsApp" class="md:w-16 md:h-16 w-12 h-12">
     </a>
     <footer class="bg-secondary">
