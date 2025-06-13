@@ -26,6 +26,9 @@
       </div>
     </header>
     <slot />
+    <a href="https://wa.me/5512988361101&name=as" class="fixed bottom-5 right-3 z-50 no-underline" target="_blank">
+      <img src="~/assets/images/WhatsApp.svg" alt="Botão WhatsApp" class="md:w-16 md:h-16 w-12 h-12">
+    </a>
     <footer class="bg-secondary">
       <div class="flex justify-center flex-col items-center p-2">
         <img
@@ -34,9 +37,9 @@
           alt="Logo Mr Brit"
         />
         <address class="not-italic text-white text-center">
-          <p>Rua Francisco de Barros, 249</p>
-          <p>Centro, Taubaté-SP</p>
-          <p>Tel: +12 3633-3719</p>
+          <p>Rua Peru, 65</p>
+          <p>Jardim das Nações, Taubaté-SP</p>
+          <p>Tel: +12 98836-1101</p>
         </address>
         <ul class="flex gap-4 mt-4">
           <li>
