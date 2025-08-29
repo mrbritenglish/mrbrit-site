@@ -44,7 +44,7 @@
         <ul class="flex gap-4 mt-4">
           <li>
             <NuxtLink
-              href="https://www.facebook.com/MrBritSchool/?ref=embed_page"
+              href="https://www.facebook.com/share/19U3EHovzw/?mibextid=wwXIfr"
               target="_blank"
             >
               <Icon name="mdi:facebook" size="30" class="text-white" />
@@ -52,7 +52,7 @@
           </li>
           <li>
             <NuxtLink
-              href="https://www.instagram.com/mrbritschool/"
+              href="https://www.instagram.com/mrbritjardimdasnacoes?igsh=MWF3d25sdW1mNjhqNg%3D%3D&utm_source=qr"
               target="_blank"
             >
               <Icon name="mdi:instagram" size="30" class="text-white" />
